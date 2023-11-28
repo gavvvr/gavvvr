@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**gavvvr/gavvvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a well-grounded Kotlin/Java backend developer with 8 years of commercial experience.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 If I have a time, I am working on [Obsidian Imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin)
+- 🌱 I’m interested in:
+  - any DevOps tools, which help me to automate my flow and deliver faster
+  - Domain-Driven Design
+  - functional programming techniques
+  - asynchronous programming
+  - monitoring and observability
+- 📝 When I study, I make notes and use Obsidian for that
+- 💬 Ask me about: git, testing, CI/CD, Gradle, Docker & Kubernetes, CLI tools.
+- 💻 I work on MacBook , [here](https://github.com/gavvvr/dotfiles) is my .dotfiles repository
+- 📫 You can find my contacts and CV [here](https://bit.ly/gavvvr-cv-github)
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
+
+<!--- 🤔 I’m looking for help with ...-->
+<!--- 👯 I’m looking to collaborate on ...-->
