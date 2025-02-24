@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a well-grounded Kotlin/Java backend developer with 8 years of commercial experience.
+I am a well-grounded Kotlin/Java backend developer with 9 years of commercial experience.
 For application development I prefer Kotlin now and would only use Java where I do not want to bring in `kotlin-stdlib` as a dependency.
 
 - 📕 I like reading books and I make notes using Obsidian to focus my attention on crucial tings
