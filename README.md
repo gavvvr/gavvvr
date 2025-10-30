@@ -6,6 +6,7 @@ For application development I prefer Kotlin now and would only use Java where I 
 - 📕 I like reading books and I make notes using Obsidian to focus my attention on crucial tings
 - 🌱 When I have a time, I work on [Obsidian Imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) here on GitHub
 - 🔭 I’m interested in:
+  - open standarts and open-source technologies
   - any DevOps tools, which help me to automate my flow and deliver faster
   - Domain-Driven Design
   - practical functional programming techniques
