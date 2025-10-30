@@ -13,7 +13,6 @@ For application development I prefer Kotlin now and would only use Java where I 
   - monitoring and observability
 - 💬 Ask me about: git, testing, clean design, CI/CD, Gradle, Docker/Kubernetes and CLI tools
 - 💻 I work on MacBook , [here](https://github.com/gavvvr/dotfiles) are my .dotfiles
-- 📫 You can find my contacts and CV [here](https://bit.ly/gavvvr-cv-github)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "Simplicity is prerequisite for reliability"
 
