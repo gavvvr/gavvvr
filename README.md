@@ -3,7 +3,7 @@
 I am a well-grounded Kotlin/Java backend developer with 9 years of commercial experience.
 For application development I prefer Kotlin now and would only use Java where I do not want to bring in `kotlin-stdlib` as a dependency.
 
-- 📕 I like reading books and I make notes using Obsidian to focus my attention on crucial tings
+- 📕 I like reading books and I make notes using Obsidian to focus my attention on crucial things
 - 🌱 When I have a time, I work on [Obsidian Imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) here on GitHub
 - 🔭 I’m interested in:
   - open standards and open-source technologies
